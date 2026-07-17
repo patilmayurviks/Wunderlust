@@ -104,7 +104,9 @@ app.get("/demo",async(req,res)=>{
 })
 
 
-
+app.get("/", (req, res) => {
+    res.redirect("/listings");
+});
 
 app.use("/listings" ,listings);
 app.use("/listings/:id/reviews",reviews);
