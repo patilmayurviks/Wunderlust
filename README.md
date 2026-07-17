@@ -9,10 +9,6 @@ A full-stack accommodation booking platform inspired by Airbnb that allows users
 🌐 **Live Website:**  
 https://wunderlust-1pku.onrender.com/listings
 
-📂 **GitHub Repository:**  
-https://github.com/patilmayurviks/YOUR_GITHUB_REPO_LINK
-
----
 
 # 📸 Project Screenshots
 
