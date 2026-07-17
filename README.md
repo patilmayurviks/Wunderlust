@@ -269,13 +269,3 @@ https://github.com/patilmayurviks
 https://www.linkedin.com/in/mayur-patil-37436b326/
 
 ---
-
-# ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub!
-
----
-
-# 📄 License
-
-This project is created for educational and portfolio purposes.
